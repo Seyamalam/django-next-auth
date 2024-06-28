@@ -13,7 +13,7 @@ By default, the Django backend will be running on localhost:8000 and the fronten
 ## Manual setup
 
 ```bash
-git clone https://github.com/Seyamalam/django-nextjs-auth.git && cd django-nextjs-auth
+git clone https://github.com/Seyamalam/django-next-auth.git && cd django-nextjs-auth
 ```
 
 Run the `setup.sh` script to handle dependencies installation on the backend and the frontend. 
@@ -37,4 +37,4 @@ cd frontend
 npm run dev
 ```
 
-Made with ❤️
+Hello Pratik! I have added the setup instructions for the project. You can now run the project using Docker or manually.
